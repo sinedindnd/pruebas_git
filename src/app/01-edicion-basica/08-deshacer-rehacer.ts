@@ -16,8 +16,8 @@
 
 
 // Demo
-// function holaMundo() {
-//     return 'Saludos a todos!';
-// }
+function holaMundo() {
+    return 'Saludos a todos!';
+}
 
 
